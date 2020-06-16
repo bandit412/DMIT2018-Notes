@@ -1,2 +1,4 @@
 # DMIT2018-Notes
-Lesson Notes for DMIT2018 at HUST
+
+## Introduction
+These are the PDF documents available for your exams and reference.
